@@ -1,0 +1,3 @@
+# Magic-8-Ball
+
+Nothing special, just like everybody else. I think...
